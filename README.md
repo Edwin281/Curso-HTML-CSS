@@ -1,6 +1,6 @@
 # Curso HTML Y CSS
 Este es el repositorio del curso de HTML Y CSS de Platzi. 💚 
->En este curso se vera como gunciona CSS y HTML 
+>En este curso se vera como funciona CSS y HTML 
 >
 
 ## En este curso vemos los principios de HTML y CSS
