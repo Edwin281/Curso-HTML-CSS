@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgb(131, 250, 12);
+    font-size: 37px;
+}
+.ti{
+    color: darkblue;
+    font-size: 27;
+}
+
+li{
+    color: white;
+}
+a{
+    color: azure;
+}
